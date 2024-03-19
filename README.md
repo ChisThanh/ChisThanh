@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ChisThanh">
 <h1 align="center">
   <a href="https://github.com/ChisThanh">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ChjsThanh;I'm+backen+developer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ChjsThanh;I'm+backend+developer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <hr>
